@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemakeGhostnGoblins.Plugins", "RemakeGhostnGoblins.Plugins.csproj", "{52990172-EB38-7EFA-AA93-7E444FD752E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemakeGhostnGoblins.Editor.Plugins", "RemakeGhostnGoblins.Editor.Plugins.csproj", "{D2D4129C-1C6B-B258-CF71-5AABFE3EAC8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52990172-EB38-7EFA-AA93-7E444FD752E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52990172-EB38-7EFA-AA93-7E444FD752E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52990172-EB38-7EFA-AA93-7E444FD752E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52990172-EB38-7EFA-AA93-7E444FD752E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D4129C-1C6B-B258-CF71-5AABFE3EAC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D4129C-1C6B-B258-CF71-5AABFE3EAC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D4129C-1C6B-B258-CF71-5AABFE3EAC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D4129C-1C6B-B258-CF71-5AABFE3EAC8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
